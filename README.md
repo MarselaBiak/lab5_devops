@@ -42,6 +42,7 @@ hotel-energy-ga/
 ├── app.py
 ├── requirements.txt
 └── Dockerfile
+```
 
 ---
 
@@ -49,9 +50,15 @@ hotel-energy-ga/
 
 <img width="364" height="137" alt="image" src="https://github.com/user-attachments/assets/e0459df5-ffbb-4378-b2d4-607d61bc1ea7" />
 
+---
+
 <img width="940" height="288" alt="image" src="https://github.com/user-attachments/assets/68a29664-d6ec-4821-8357-ba35cc8df24d" />
 
+---
+
 <img width="940" height="296" alt="image" src="https://github.com/user-attachments/assets/02c9d0d8-04af-4e86-a039-5b4c16760e41" />
+
+---
 
 <img width="940" height="664" alt="image" src="https://github.com/user-attachments/assets/84b1a2e8-d7ec-44b3-b769-0b03d875b8f4" />
 
